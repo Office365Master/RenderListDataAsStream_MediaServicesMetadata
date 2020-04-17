@@ -1,3 +1,3 @@
-# RenderListDataAsStream_MediaServicesMetadata
-Extraction of MediaServicesMetadata (EXIF) for SharePoint Document Library Repositories
+# RenderListDataAsStream_Lirbary_Metadata
+Surfaces Media Service Metadata for SharePoint Library repositories
 https://masteroffice365.com
