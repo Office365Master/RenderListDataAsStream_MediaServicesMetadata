@@ -17,7 +17,7 @@ A new app - "Picture Library" named "Pictures"
 
 A new app - "Media Library" named "Media Assets"
 
-In additional to the 4 Libraries, add the corrosponding Flow provisioned in this package "SharePoint_Library_MSM" which you MUST test prior to running the app.
+In additional to the 4 Libraries, test the corresponding Power Automate flow provisioned in this package "SharePoint_Library_MSM" prior to running the app.
 
 https://masteroffice365.com/media-service-metadata-part-1
 https://www.youtube.com/watch?v=gKL92VU6QwA
