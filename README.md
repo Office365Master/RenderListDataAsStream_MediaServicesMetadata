@@ -1,5 +1,7 @@
-# RenderListDataAsStream_Library_Metadata
-Surfaces rich Media Service Metadata for SharePoint Library repositories
+# All Things 365 MSM Showcase PowerApp and SharePoint_Library_MSN Power Automate flow
+Surfaces rich Media Service Metadata for SharePoint Library repositories.
+
+Import this solution into your Power Apps environment.
 
 This solution showcases how you are able extract some awesome metadata that is automatically generated for most types of files uploaded to most types of SharePoint libraries. 
 
@@ -17,4 +19,6 @@ A new app - "Media Library" named "Media Assets"
 
 In additional to the 4 Libraries, add the corrosponding Flow provisioned in this package "SharePoint_Library_MSM" which you MUST test prior to running the app.
 
-https://masteroffice365.com
+https://masteroffice365.com/media-service-metadata-part-1
+https://www.youtube.com/watch?v=gKL92VU6QwA
+https://www.youtube.com/watch?v=8QbY9q-Sl0c&t=5s
