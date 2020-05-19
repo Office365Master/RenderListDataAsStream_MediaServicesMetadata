@@ -34,11 +34,8 @@ Power Automate flow that exposes rich metadata leveraging the SharePoint RenderL
 
 ...................................................................................................................
 Part 2
+https://masteroffice365.com/media-service-metadata-part-2
 https://youtu.be/GY5RGAAm84s
 Power App showcase surfacing rich metadata levaging the SharePoint Graph v2 REST APIs
 
 ...................................................................................................................
-
-Stay tuned for more...
-
-https://www.youtube.com/watch?v=gKL92VU6QwA
