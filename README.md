@@ -24,15 +24,18 @@ A new app - "Picture Library" named "Pictures"
 
 In additional to the 3 Libraries, test the corresponding Power Automate flows provisioned in this package, namely the "SharePoint_MSM_RenderListDataAsStream" flow and the "SharePoint_Library_MSM" flow prior to running the app.
 
-Part 1
+Part 1: 
 https://masteroffice365.com/media-service-metadata-part-1
+
 https://youtu.be/4dhDk36GVJU
 Power App showcase surfacing rich metadata leveraging the SharePoint RenderListDataAsStream REST API
+
 https://youtu.be/8QbY9q-Sl0c
 Power Automate flow that exposes rich metadata leveraging the SharePoint RenderListDataAsStream API
 
 
-Part 2
+Part 2: 
 https://masteroffice365.com/media-service-metadata-part-2
+
 https://youtu.be/GY5RGAAm84s
 Power App showcase surfacing rich metadata levaging the SharePoint Graph v2 REST APIs
