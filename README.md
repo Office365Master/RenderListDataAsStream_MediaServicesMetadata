@@ -1,4 +1,4 @@
-# All Things 365 MSM Showcase PowerApp and SharePoint_Library_MSN Power Automate flow
+# All Things 365 MSM Showcase PowerApp and "SharePoint_MSM_RenderListDataAsStream" & "SharePoint_Library_MSN" Power Automate flows
 Surfaces rich Media Service Metadata for SharePoint Library repositories.
 
 Import this solution into your Power Apps environment.
@@ -17,10 +17,14 @@ This solution showcases how you are able extract some awesome metadata that is a
 
 Metadata is typically generated for files uploaded to SharePoint on average about 4 hours after the file was uploaded. Don't be too concerned that the app isn't working as you might expect having immediately uploaded files to any given library. Equally metadata won't get extracted from PDF documents based on the limited testing done prior to sharing this solution.
 
-The Power App requires you to add 3 datasources connections to 4 SharePoint libraries on a team site:
+The Power App requires you to add 3 data source connections to 3 SharePoint libraries on a team site:
+
 The standard "Shared Documents" / "Documents" Library
+
 The standard "Site Assets" / "SiteAssets" Library
+
 A new app - "Picture Library" named "Pictures"
+
 
 In additional to the 3 Libraries, test the corresponding Power Automate flows provisioned in this package, namely the "SharePoint_MSM_RenderListDataAsStream" flow and the "SharePoint_Library_MSM" flow prior to running the app.
 
