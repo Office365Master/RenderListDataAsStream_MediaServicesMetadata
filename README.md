@@ -31,7 +31,7 @@ https://youtu.be/4dhDk36GVJU
 Power App showcase surfacing rich metadata leveraging the SharePoint RenderListDataAsStream REST API
 
 https://youtu.be/8QbY9q-Sl0c
-Power Automate flow that exposes rich metadata leveraging the SharePoint RenderListDataAsStream API
+Power Automate flow that exposes rich metadata leveraging the SharePoint RenderListDataAsStream REST API
 
 
 Part 2: 
