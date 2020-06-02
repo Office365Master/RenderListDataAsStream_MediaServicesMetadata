@@ -17,13 +17,12 @@ This solution showcases how you are able extract some awesome metadata that is a
 
 Metadata is typically generated for files uploaded to SharePoint on average about 4 hours after the file was uploaded. Don't be too concerned that the app isn't working as you might expect having immediately uploaded files to any given library. Equally metadata won't get extracted from PDF documents based on the limited testing done prior to sharing this solution.
 
-The Power App requires you to add 4 datasources connections to 4 SharePoint libraries on a team site:
+The Power App requires you to add 3 datasources connections to 4 SharePoint libraries on a team site:
 The standard "Shared Documents" / "Documents" Library
 The standard "Site Assets" / "SiteAssets" Library
 A new app - "Picture Library" named "Pictures"
-A new app - "Media Library" named "Media Assets"
 
-In additional to the 4 Libraries, test the corresponding Power Automate flow provisioned in this package "SharePoint_Library_MSM" prior to running the app.
+In additional to the 3 Libraries, test the corresponding Power Automate flows provisioned in this package, namely the "SharePoint_MSM_RenderListDataAsStream" flow and the "SharePoint_Library_MSM" flow prior to running the app.
 
 Part 1
 https://masteroffice365.com/media-service-metadata-part-1
@@ -32,10 +31,8 @@ Power App showcase surfacing rich metadata leveraging the SharePoint RenderListD
 https://youtu.be/8QbY9q-Sl0c
 Power Automate flow that exposes rich metadata leveraging the SharePoint RenderListDataAsStream API
 
-...................................................................................................................
+
 Part 2
 https://masteroffice365.com/media-service-metadata-part-2
 https://youtu.be/GY5RGAAm84s
 Power App showcase surfacing rich metadata levaging the SharePoint Graph v2 REST APIs
-
-...................................................................................................................
