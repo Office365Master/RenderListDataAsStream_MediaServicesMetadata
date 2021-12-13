@@ -1,4 +1,4 @@
-# All Things 365 MSM Showcase PowerApp and "SharePoint_MSM_RenderListDataAsStream" & "SharePoint_Library_MSN" Power Automate flows
+# All Things 365 MSM Showcase PowerApp and "SharePoint_MSM_RenderListDataAsStream" & "SharePoint_MSM" Power Automate flows
 Surfaces rich Media Service Metadata for SharePoint Library repositories.
 
 Import this solution into your Power Apps environment.
